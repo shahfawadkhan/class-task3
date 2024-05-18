@@ -1,0 +1,146 @@
+
+.dropdown-menu {
+    display: none;
+}
+.dropdown:hover .dropdown-menu {
+    display: block;
+  }
+.dropdown-menu>a:hover{
+    background-color: #8dc63f;
+}
+.navbar-nav>button:hover{
+    transform: scale(1.05);
+    transition-duration: .5s;
+}
+#hero-section{
+    width: fit-content;
+    height: fit-content;
+}
+#explore-more>.fa{
+    font-size: 20px;
+}
+#saylani{
+    color: #8dc63f;
+}
+h3>span{
+    color: #0d6efd;
+}
+#hero-section>div{
+    width: 600px;
+    height: 600px;
+    
+}
+#btngrp>button{
+    background-color: white;
+    color: black;
+}
+#btngrp>button:hover{
+    transform: scale(1.1);
+    transition-duration: .5s;
+    transition-timing-function: linear;
+    background-color:#424242;
+    color: white;
+}
+#btngrp>div>span{
+    background-color: #424242;
+    color: white;
+}
+.card-icons>img{
+    width: 60px;
+    height: 50px;
+    margin-top: 25px;
+    margin-left: 10px;
+}
+#card>div{
+    background-color: #b6ef4933;
+}
+#card>div:hover{
+    transform: scale(1.07);
+    transition-duration: .6s;
+}
+
+#card-images>div{
+    width: 400px;
+    height: 350px;
+}
+#card-images>div>img{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+}
+.card-img-overlay{
+    position: relative;
+    margin-top: 250px;
+}
+.card-img-overlay>button{
+    width: 350px;
+}
+.opacity{
+    position: absolute;
+    height: 350px;
+    width: 400px;
+    background-color: rgba(0, 0, 0, 0.543);
+}
+.opacity:hover{
+background-color: transparent;
+}
+.section{
+    margin-top: 20px;
+    width: 100%;
+    height: fit-content;
+}
+.pic{
+    width: 50%;
+    height: 500px;
+    position: relative;
+}
+.boxCont{
+    width: 100%;
+    height: 400px;
+    position: absolute;
+}
+.box{
+    width: 50%;
+    height: 250px;
+    border: 1px solid white;
+}
+.innerBox1{
+    width: 40px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: #eeeeee;
+}
+.Projects{
+    margin-left: 20px;
+}
+.content{
+    margin-left: 20px;
+}
+.Projects>h4{
+    color: #0d6db7;
+}
+.image{
+    margin-top: 20px;
+}
+.card-text{
+    font-weight: bold;
+}
+.section4{
+    background-color: #0d6db7;
+    width: 96%;
+    height: 250px;
+}
+#sec4btn{
+    margin-left: 355px;
+}
+footer{
+    width: 100%;
+    height: 500px;
+    background: rgb(233, 226, 226);
+}
+.fa{
+    font-size: 50px;
+}
+#about>ul>li{
+    list-style-type: none;
+}
